@@ -1,0 +1,13 @@
+# Visual Studio user files
+.vs/
+*.suo
+*.user
+*.userosversion
+*.sln.docstates
+
+# Build folders
+x64/
+Debug/
+Release/
+bin/
+obj/
