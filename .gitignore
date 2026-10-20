@@ -11,3 +11,7 @@ Debug/
 Release/
 bin/
 obj/
+include/
+build/
+src/glad.c
+CMakeLists.txt
